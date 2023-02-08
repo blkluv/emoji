@@ -5,7 +5,7 @@
 ![unicorn](http://cl.ly/image/1p110H2M0r0O/unicorn.gif)
 
 :octopus: :zap: :cat: = :octocat:<br />
-Find the emoji that echoes your heart using keywords
+Find the emoji that best describes your business.
 
 :raised_hands::gun::moneybag::police_car::boom::hospital::syringe::skull:<br />
 Tell a story
